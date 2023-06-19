@@ -1,3 +1,3 @@
 
-var1 = "Git is Awesome"
+var1 = "Git is Awesome "
 print(var1)
